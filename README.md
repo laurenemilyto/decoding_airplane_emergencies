@@ -1,4 +1,4 @@
-# 🧐 Decoding Aircraft Emergencies
+#Decoding Aircraft Emergencies
 
 ![alt text](http://github.com/itsgreyedout/project-3/blob/master/images/airplane.jpg?raw=true)
 

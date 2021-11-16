@@ -1,5 +1,3 @@
-# Decoding Aircraft Emergencies
-
 ![alt text](https://i.pinimg.com/originals/34/0e/b6/340eb69ac076c77a6a2631a5e80b66e3.jpg)
 
 ## About this project:

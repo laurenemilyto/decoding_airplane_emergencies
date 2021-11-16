@@ -1,6 +1,6 @@
 # Decoding Aircraft Emergencies
 
-![alt text](http://github.com/itsgreyedout/project-3/blob/master/images/airplane.jpg?raw=true)
+![alt text](https://i.pinimg.com/originals/34/0e/b6/340eb69ac076c77a6a2631a5e80b66e3.jpg)
 
 ## About this project:
 As frequent flyers, our team was interested in exploring in-flight emergency air situations using squawk 7700 codes. We created an interactive web dashboard using Heroku to explore over 4.2 million rows of data from OpenSky which we loaded into PostgreSQL. 
